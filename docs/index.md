@@ -23,19 +23,20 @@ title: Home
 
 ### V2
 
-- No features.
+- Add a very useful feature.
 
 ### V3
 
-- No features.
+- Take away the useful feature.
+- No features anymore.
 
 ### V4
 
-- No features.
+- Still no features.
 
 ### V5
 
-- No features.
+- No features. But lots of hamsters.
 
 ### V6
 
