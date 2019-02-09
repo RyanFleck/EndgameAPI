@@ -1,7 +1,7 @@
 ![EndgameAPI](/endgame.png)
 
-Docs: <https://ryanfleck.github.io/EndgameAPI/>  
-Heroku: <https://endgame-api.herokuapp.com/api/v6/allthedata>  
+Docs: <https://ryanfleck.github.io/EndgameAPI>  
+Heroku: <https://endgame-api.herokuapp.com>
 
 
 ## Features:
