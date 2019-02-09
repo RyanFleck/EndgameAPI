@@ -10,6 +10,7 @@
 - Sensical docuretation.
 - Makes meaningful calls to every challenge API while exposing none of the data to the end user.
 - No way to trigger API calls to other services.
+- Trash commit names.
 
 ## Xamples:
 
