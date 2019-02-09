@@ -1,6 +1,6 @@
 ![EndgameAPI](/endgame.png)
 
-Features:
+## Features:
 - uOttahack most useless hack HACK.
 - Whipped up in 5 while we were working in da real hak.
 - Calls every API with random data every 5 minutes.
@@ -8,6 +8,6 @@ Features:
 - Nonsensical docutation.
 
 
-#### Utilizing:
+## Utilizing:
 - Express 
 - CSS Spinning Spinners <http://billynate.github.io/css-spinning-spinners/>
