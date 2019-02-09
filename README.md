@@ -2,10 +2,12 @@
 
 ## Features:
 - uOttahack most useless hack HACK.
+- Makes meaningful calls to every challenge API while exposing none of the data to the end user.
 - Whipped up in 5 while we were working in da real hak.
 - Calls every API with random data every 5 minutes.
 - **Is an API** call at `api/v6/allthedata`. Might return someting useful.
 - Nonsensical docutation.
+- No way to trigger API calls to other services.
 
 
 ## Utilizing:
