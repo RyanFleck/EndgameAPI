@@ -1,5 +1,9 @@
 ![EndgameAPI](/endgame.png)
 
+Docs: <https://ryanfleck.github.io/EndgameAPI/>  
+Heroku: <https://endgame-api.herokuapp.com/api/v6/allthedata>  
+
+
 ## Features:
 - uOttahack most useless hack HACK.
 - Worse than useless, places unnecesarie load on valuable sponsor servicez.
