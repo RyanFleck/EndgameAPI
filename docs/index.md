@@ -15,6 +15,32 @@ title: Home
 - No way to trigger API calls to other services.
 - Trash commit names.
 
+## API History
+
+### V1
+
+- No features.
+
+### V2
+
+- No features.
+
+### V3
+
+- No features.
+
+### V4
+
+- No features.
+
+### V5
+
+- No features.
+
+### V6
+
+- Route at `/allthedata` added.
+
 ## Xamples:
 
 - Call everytihng with <https://endgame-api.herokuapp.com/api/v6/allthedata>
