@@ -11,6 +11,9 @@
 - Makes meaningful calls to every challenge API while exposing none of the data to the end user.
 - No way to trigger API calls to other services.
 
+## Xamples:
+
+- Call everytihng with <https://endgame-api.herokuapp.com/api/v6/allthedata>
 
 ## Utilizing:
 - Express 
