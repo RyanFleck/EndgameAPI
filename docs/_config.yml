@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+
+name: EndgameAPI
+title: EndgameAPI
+descripton: EndgameAPI
+show_downloads: true
+logo: logo.png 
+
+# Setup
+title:        EndgameAPI
+tagline:      An API. For things.
+locale:       "en"
+
+# About/contact
+author:
+  name:       Ryan Fleck
+  url:        http://ryanfleck.github.io
+
+markdown: kramdown
