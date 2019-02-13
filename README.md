@@ -1,7 +1,7 @@
 ![EndgameAPI](/endgame.png)
 
 Docs: <https://ryanfleck.github.io/EndgameAPI>  
-Heroku: <https://endgame-api.herokuapp.com>
+Heroku: <https://endgame-api.herokuapp.com> (~7s cold boot time.)
 
 
 ## Features:
